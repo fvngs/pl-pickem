@@ -1,0 +1,2472 @@
+[
+    {
+        "matchday": 1,
+        "matches": [
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-08-16T19:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-08-17T11:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-08-17T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-08-17T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-08-17T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-08-17T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-08-17T16:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-08-18T13:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-08-18T15:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-08-19T19:00:00Z",
+                "status": "TIMED"
+            }
+        ]
+    },
+    {
+        "matchday": 2,
+        "matches": [
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-08-24T11:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-08-24T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-08-24T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-08-24T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-08-24T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-08-24T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-08-24T16:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-08-25T13:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-08-25T13:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-08-25T15:30:00Z",
+                "status": "TIMED"
+            }
+        ]
+    },
+    {
+        "matchday": 3,
+        "matches": [
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-08-31T11:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-08-31T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-08-31T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-08-31T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-08-31T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-08-31T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-08-31T16:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-09-01T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-09-01T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-09-01T14:00:00Z",
+                "status": "TIMED"
+            }
+        ]
+    },
+    {
+        "matchday": 4,
+        "matches": [
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-09-14T11:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-09-14T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-09-14T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-09-14T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-09-14T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-09-14T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-09-14T16:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-09-14T19:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-09-15T13:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-09-15T15:30:00Z",
+                "status": "TIMED"
+            }
+        ]
+    },
+    {
+        "matchday": 5,
+        "matches": [
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-09-21T11:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-09-21T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-09-21T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-09-21T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-09-21T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-09-21T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-09-21T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-09-21T16:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-09-22T13:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-09-22T15:30:00Z",
+                "status": "TIMED"
+            }
+        ]
+    },
+    {
+        "matchday": 6,
+        "matches": [
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-09-28T11:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-09-28T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-09-28T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-09-28T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-09-28T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-09-28T14:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-09-28T16:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-09-29T13:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-09-29T15:30:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-09-30T19:00:00Z",
+                "status": "TIMED"
+            }
+        ]
+    },
+    {
+        "matchday": 7,
+        "matches": [
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-10-05T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 8,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-10-19T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 9,
+        "matches": [
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-10-26T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 10,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-11-02T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 11,
+        "matches": [
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-11-09T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 12,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-11-23T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 13,
+        "matches": [
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-11-30T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 14,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-12-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-12-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-12-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-12-04T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 15,
+        "matches": [
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-12-07T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 16,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-12-14T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 17,
+        "matches": [
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-12-21T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 18,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2024-12-26T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 19,
+        "matches": [
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2024-12-29T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 20,
+        "matches": [
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-01-04T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 21,
+        "matches": [
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-01-14T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-01-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-01-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-01-15T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 22,
+        "matches": [
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-01-18T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 23,
+        "matches": [
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-01-25T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 24,
+        "matches": [
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-02-01T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 25,
+        "matches": [
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-02-15T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 26,
+        "matches": [
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-02-22T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 27,
+        "matches": [
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-02-25T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-02-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-02-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-02-26T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 28,
+        "matches": [
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-03-08T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 29,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-03-15T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 30,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-04-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-04-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-04-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-04-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-04-01T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-04-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-04-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-04-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-04-02T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-04-02T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 31,
+        "matches": [
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-04-05T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 32,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-04-12T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 33,
+        "matches": [
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-04-19T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 34,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-04-26T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 35,
+        "matches": [
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-05-03T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 36,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-05-10T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 37,
+        "matches": [
+            {
+                "homeTeam": "Arsenal FC",
+                "awayTeam": "Newcastle United FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Aston Villa FC",
+                "awayTeam": "Tottenham Hotspur FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brentford FC",
+                "awayTeam": "Fulham FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Brighton & Hove Albion FC",
+                "awayTeam": "Liverpool FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Chelsea FC",
+                "awayTeam": "Manchester United FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Crystal Palace FC",
+                "awayTeam": "Wolverhampton Wanderers FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Everton FC",
+                "awayTeam": "Southampton FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Leicester City FC",
+                "awayTeam": "Ipswich Town FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "Manchester City FC",
+                "awayTeam": "AFC Bournemouth",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            },
+            {
+                "homeTeam": "West Ham United FC",
+                "awayTeam": "Nottingham Forest FC",
+                "utcDate": "2025-05-18T00:00:00Z",
+                "status": "SCHEDULED"
+            }
+        ]
+    },
+    {
+        "matchday": 38,
+        "matches": [
+            {
+                "homeTeam": "AFC Bournemouth",
+                "awayTeam": "Leicester City FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Fulham FC",
+                "awayTeam": "Manchester City FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Ipswich Town FC",
+                "awayTeam": "West Ham United FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Liverpool FC",
+                "awayTeam": "Crystal Palace FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Manchester United FC",
+                "awayTeam": "Aston Villa FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Newcastle United FC",
+                "awayTeam": "Everton FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Nottingham Forest FC",
+                "awayTeam": "Chelsea FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Southampton FC",
+                "awayTeam": "Arsenal FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Tottenham Hotspur FC",
+                "awayTeam": "Brighton & Hove Albion FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            },
+            {
+                "homeTeam": "Wolverhampton Wanderers FC",
+                "awayTeam": "Brentford FC",
+                "utcDate": "2025-05-25T15:00:00Z",
+                "status": "TIMED"
+            }
+        ]
+    }
+]
