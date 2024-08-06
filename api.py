@@ -1,6 +1,7 @@
 import requests
 import dotenv
 import os
+import time
 
 dotenv.load_dotenv()
 
@@ -26,3 +27,4 @@ def gameweekResults(gameweek: int) -> list:
     for result in fixtures['matches']:
         results.append(result['score']['winner'])
     return results
+
